@@ -6,7 +6,7 @@ import java.util.Scanner;
        // Swap two variable' values without using a third variable
 
 
-public class SwapNumbers {
+public class SwapNumbers2 {
 
     public static void main(String arr[])
 
